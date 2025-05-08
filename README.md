@@ -45,7 +45,7 @@ Here are a few notable projects I have worked on:
 
 ## Contact
 - **Email:** prashanth.naro@gmail.com (mailto:prashanth.naro@gmail.com)
-- **Website:** [idonutcode.com]([https://idonutcode.com](https://prashanth-naroju-portfolio.vercel.app/))
+- **Website:** [idonutcode.com](https://prashanth-naroju-portfolio.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/narojuprashanth](https://linkedin.com/in/narojuprashanth)
 - **GitHub:** [github.com/codewithcherry](https://github.com/codewithcherry)
 
