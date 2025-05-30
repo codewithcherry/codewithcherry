@@ -1,58 +1,36 @@
-# Web Developer and Online Code Instructor
+<h1 align="center">Hi 👋, I'm Prashanth Naroju</h1>
+<h3 align="center">A passionate Fullstack Developer from Hyderabad,India</h3>
 
-## About Me
-I am Prashanth Naroju, a passionate web developer and online code instructor based in India. Over the past two years, I have been actively involved in web development and have gained expertise in the MERN stack (MongoDB, Express.js, React.js, and Node.js). I am always eager to learn and explore new technologies in the field of web development, and I aspire to become a full stack developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithcherry&label=Profile%20views&color=0e75b6&style=flat" alt="codewithcherry" /> </p>
 
-## Experience
-- **Web Development:** I have been working as a web developer for the past two years, where I have honed my skills in front-end and back-end development. I have extensive experience in HTML, CSS, JavaScript, and various web development frameworks.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithcherry" alt="codewithcherry" /></a> </p>
 
-- **MERN Stack Development:** My expertise lies in the MERN stack, which is a powerful combination of technologies for building robust and scalable web applications. I have successfully built and deployed several MERN stack projects, demonstrating my proficiency in this area.
+<p align="left"> <a href="https://twitter.com/prashanthnaroju" target="blank"><img src="https://img.shields.io/twitter/follow/prashanthnaroju?logo=twitter&style=for-the-badge" alt="prashanthnaroju" /></a> </p>
 
-- **Online Code Instruction:** Alongside my work as a web developer, I have also been an online code instructor. I have created and published tutorials and courses on various platforms, where I teach web development concepts and practical coding skills to aspiring developers.
+- 🔭 I’m currently working on [myunireview](https://myunireview.vercel.app/)
 
-## Skills
-- **Front-End Development:** HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Material-UI.
+- 🌱 I’m currently learning **DSA**
 
-- **Back-End Development:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs.
+- 👨‍💻 All of my projects are available at [https://prashanth-naroju-portfolio.vercel.app/](https://prashanth-naroju-portfolio.vercel.app/)
 
-- **Database:** MongoDB, MySQL.
+- 💬 Ask me about **Web Dev, MERN**
 
-- **Version Control:** Git, GitHub.
+- 📫 How to reach me **prashanth.naro@gmail.com**
 
-- **Deployment and Hosting:** Heroku, Netlify, Vercel.
+- ⚡ Fun fact **I talk to AI so much, I'm starting to think in JSON!**
 
-- **UI/UX Design:** Wireframing, Prototyping,Figma designing,Canva.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prashanthnaroju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashanthnaroju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashanth-naroju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashanth-naroju/" height="30" width="40" /></a>
+<a href="https://instagram.com/idonutcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idonutcode" height="30" width="40" /></a>
+</p>
 
-- **Testing:** Jest, Enzyme.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Projects
-Here are a few notable projects I have worked on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithcherry&show_icons=true&locale=en&layout=compact" alt="codewithcherry" /></p>
 
-1. **E-commerce Website** - Developed a full-stack e-commerce website using the MERN stack, allowing users to browse products, add them to the cart, and complete the checkout process.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithcherry&show_icons=true&locale=en" alt="codewithcherry" /></p>
 
-2. **Social Media App** - Created a social media application using React.js, Node.js, and MongoDB, enabling users to create posts, like and comment on them, and follow other users.
-
-3. **Weather App** - Built a weather application using React.js and an API, providing users with real-time weather information based on their location.
-
-4. **Task Manager API** - Developed a RESTful API using Node.js, Express.js, and MongoDB, allowing users to manage their tasks by creating, updating, and deleting them.
-
-## Achievements
-- **Online Community:** I have built a strong online presence and have an engaged community of learners who regularly interact with me, ask questions, and provide feedback on my tutorials and courses.
-
-- **Positive Reviews:** Many of my tutorials and courses have received positive reviews and high ratings from students, which motivates me to continue creating valuable content.
-
-- **Continued Learning:** I actively participate in web development forums, attend webinars, and keep myself updated with the latest trends and technologies in the field.
-
-## Contact
-- **Email:** prashanth.naro@gmail.com (mailto:prashanth.naro@gmail.com)
-- **Website:** [idonutcode.com](https://prashanth-naroju-portfolio.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/narojuprashanth](https://linkedin.com/in/narojuprashanth)
-- **GitHub:** [github.com/codewithcherry](https://github.com/codewithcherry)
-
-Feel free to reach out to me for any collaboration opportunities, questions, or further information. I am always excited to connect with fellow developers and contribute to the web development community.
-
-
-<!---
-codewithcherry/codewithcherry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithcherry&" alt="codewithcherry" /></p>
